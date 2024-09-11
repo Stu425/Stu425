@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @Stu425
-- 👀 I’m interested in: jogos, basquete.
-- 🌱 I’m currently learning: Como usar o github.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Sejam bem vindos ao meu perfil💙
 
-<!---
-Stu425/Stu425 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+## Meu nome é Natã
+
+- Estou estudando na Alura
+
+- Estou me desenvolvendo na linguagem JavaScript
+
+- Você pode entrar em contato comigo 📧
+
+- natan2017super@gmail.com
+
+
+
+
+  ![](![image](https://github.com/user-attachments/assets/490c30b9-3867-4208-9d2a-ba86cb445759)
